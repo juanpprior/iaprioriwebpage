@@ -1,0 +1,5 @@
+---
+description: estamos trabajando en una instancia de google cloud, el ip estático es 34.51.34.212 y el usuario de la maquina es juanpprior
+globs:
+alwaysApply: false
+---

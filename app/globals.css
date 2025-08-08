@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply bg-white text-prioria-dark;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-prioria-green text-prioria-dark font-semibold px-6 py-3 rounded-lg hover:bg-opacity-90 transition-all duration-200 inline-flex items-center gap-2;
+  }
+  
+  .btn-secondary {
+    @apply bg-transparent border-2 border-prioria-green text-prioria-green font-semibold px-6 py-3 rounded-lg hover:bg-prioria-green hover:text-prioria-dark transition-all duration-200 inline-flex items-center gap-2;
+  }
+  
+  .container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+  
+  .section-padding {
+    @apply py-16 lg:py-24;
+  }
+  
+  .text-gradient {
+    @apply bg-gradient-to-r from-prioria-green to-emerald-400 bg-clip-text text-transparent;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

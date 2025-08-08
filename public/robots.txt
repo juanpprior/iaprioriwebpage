@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://iapriori.com
+
+# Sitemaps
+Sitemap: https://iapriori.com/sitemap.xml
