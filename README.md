@@ -338,4 +338,10 @@ Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
 
 ---
 
+## 👨‍💻 Créditos
+
+**Creado por Juan Pablo Prior Ramos** - Sr Developer
+
+---
+
 **PRIORIA** - No es el grande el que se come al chico, es el rápido el que se come al lento.
