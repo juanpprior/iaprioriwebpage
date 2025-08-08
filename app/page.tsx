@@ -1,3 +1,8 @@
+/**
+ * Home Page Component
+ * @author Juan Pablo Prior Ramos - Sr Developer
+ */
+
 import Hero from '@/components/Hero'
 import PainMini from '@/components/PainMini'
 import MethodCollapse from '@/components/MethodCollapse'
